@@ -65,7 +65,8 @@ img = img.subsample(10)
 photoL = Label(main, image = img)
 photoL.pack(pady = 5)
 
-def takeQuery():
+
+'''def takeQuery():
     sr = s.Recognizer()
     sr.pause_threshold = 1
     print("Your bot is listening, try to speak.")
@@ -80,7 +81,7 @@ def takeQuery():
 
         except Exception as e:
             print(e)
-            print("not recognized")
+            print("not recognized")'''
 
 
 # 3
@@ -116,9 +117,9 @@ def enter_function(event):
 
 main.bind('<Return>', enter_function)
 
-def repeatL():
+'''def repeatL():
     while True:
-        takeQuery()
+        takeQuery()'''
 
 t = threading.Thread(target = repeatL)
 

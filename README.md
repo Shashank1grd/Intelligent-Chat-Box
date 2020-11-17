@@ -43,9 +43,6 @@ Those errors took a lot of time to solve, and StackOverflow helped me a lot to s
 
 # The number of people in the project:
 In this project three members and this is my acadmic project and my role in this project is developer.
-'''Role: The skills of developers that should be involved depends a bit on your case. If you don’t want to integrate any external services you might even create a bot with a developer. If you’re planning to connect with other service it is recommended to have at least someone that is familiar with JavaScript.
-
-Skill: The Developer is able to use the extracted entities to push that data into other systems and the other way around. When you want your bot to be future-proof you will need someone that can work with JavaScript. As most chatbot pilots start small you might want to look for a developer that is able to work in small and flexible teams.'''
 
 # Amount of time it took for the project:
 We took approx one month to complete this project.

@@ -5,11 +5,14 @@ The main functionality of Intelligent Chat Box is it help users accomplish speci
 The project have three layers, In the first layer, I have to make a bot with the help chatterbot package, First of all, I have to pip 
 Chatterbot package from this import ChatBot package to make a bot after this we have made a data set for train the Bot with the help
 of ListTrainer package and this is an import from Chatterbot. trainers package for communicates with users in natural language via auditory or textual methods.
+
 In the second layer, I have to create a window with the help of the Tkinter GUI package for taking queries of users in the form of auditory or textual methods. In this we have to create tk class for creating a window of the bot after this I have made a frame to show the text or
 auditory msg.
+
 In the third layer, finally, I have to show a conversation between users and bot through the ask_from_bot function which is a user-defined function
 working of this is that get the text or auditory queries from get() and the response of these queries with the help of 
 bot.get_responce(query) and after this insert the conversations on the frame of Tkinter with the help of msg.insert().
+
 And further, I modify my project with the help of the pptxs3 package working on this package is to deliver audio of queries response.
 In this firstly initialize engine from init() of pptxs3 and this engine has a set of two voice one is a male version or the second one is female version then set the engine voice with the help of engine.setProerty().
 

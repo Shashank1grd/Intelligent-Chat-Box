@@ -18,12 +18,19 @@ In this firstly initialize engine from init() of pptxs3 and this engine has a se
 
 # Advantages and the main functionality of your application:
 Advantage of this application is:
+
 -- Available of 24 hrs.
+
 -- Getting an instant responce.
+
 -- A good customer experience.
+
 -- Higher Customer Satisfaction.
+
 -- Complaints resolve quickly.
+
 -- Benfits of companies in terms of cost saving.
+
 
 Main functionality of Intelligent Bots is it help users accomplish specific tasks by identifying user intent from text or voice conversations using artificial intelligence. They extract key pieces of information using a process called entity extraction leveraging natural language understanding
 	

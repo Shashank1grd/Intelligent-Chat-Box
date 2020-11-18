@@ -32,7 +32,7 @@ Advantage of this application is:
 -- Benfits of companies in terms of cost saving.
 
 
-Main functionality of Intelligent Bots is it help users accomplish specific tasks by identifying user intent from text or voice conversations using artificial intelligence. They extract key pieces of information using a process called entity extraction leveraging natural language understanding
+Main functionality of Intelligent Chat Box is it help users accomplish specific tasks by identifying user intent from text or voice conversations using artificial intelligence. They extract key pieces of information using a process called entity extraction leveraging natural language understanding
 	
 # Tools/Technologies used:
 With the help of Python, Tkinter, Chatterbot and pptxs3 technologies helped me to developed Intelligent ChatBot.

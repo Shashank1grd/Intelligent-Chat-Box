@@ -3,8 +3,8 @@ The main functionality of Intelligent Chat Box is it help users accomplish speci
 
 # Modules description:
 The project have three layers, In the first layer, I have to make a bot with the help chatterbot package, First of all, I have to pip 
-Chatterbot package from this import ChatBot package to make a bot after this we have made a data set for train the Bot with the help
-of ListTrainer package and this is an import from Chatterbot. trainers package for communicates with users in natural language via auditory or textual methods.
+Chatterbot package from this import ChatBot package to make a bot after this we have made a data set to train the Bot with the help
+of ListTrainer package and this is an import from Chatterbot. Trainers package for communication with users in natural language via auditory or textual methods.
 
 In the second layer, I have to create a window with the help of the Tkinter GUI package for taking queries of users in the form of auditory or textual methods. In this we have to create tk class for creating a window of the bot after this I have made a frame to show the text or
 auditory msg.
